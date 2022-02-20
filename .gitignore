@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+#  cinfiguracion visual studio code
+.vscode
